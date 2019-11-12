@@ -1,5 +1,6 @@
-## 完
+## ProtocolBufferは手軽で型安全な優秀なインターフェース言語!
 
-#### サービス開発部開発1課
-#### 佐藤崇史
+さらに詳しくは公式を
+- https://developers.google.com/protocol-buffers
+
 
